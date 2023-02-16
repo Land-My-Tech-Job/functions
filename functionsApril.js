@@ -27,11 +27,14 @@
 //console.log(cube())
 
 //(b)
-//function defaultName() {
-  //return 'My name is April'
+//function defaultStr(str) {
+  //if (str === undefined || str === ""){
+//return "Hello World"
+  //} else {
+//return str
+  //}
 //}
-//let name = 
-//console.log(name) 
+//console.log(defaultStr())
 
 //Divide(a)
 
@@ -59,6 +62,15 @@
 //function divideByZero(a, b){
 //}
 //console.log(Infinity)
+
+//Divide by a string 
+//let n = 5
+//let str = 'Finish what you start'
+//function divideByString(str){
+  //return (str / n)
+//}
+//console.log(divideByString)
+
 
 
 
