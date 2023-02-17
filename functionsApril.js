@@ -64,12 +64,14 @@
 //console.log(Infinity)
 
 //Divide by a string 
-//let n = 5
-//let str = 'Finish what you start'
-//function divideByString(str){
-  //return (str / n)
-//}
-//console.log(divideByString)
+let n1 = 5
+let str1 = 'Finish what you start'
+function divideByString(str, n){
+  return (str/n)
+}
+console.log(divideByString(str1, n1))
+
+
 
 
 
