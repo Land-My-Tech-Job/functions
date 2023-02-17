@@ -64,15 +64,83 @@
 //console.log(Infinity)
 
 //Divide by a string 
-let n1 = 5
-let str1 = 'Finish what you start'
-function divideByString(str, n){
-  return (str/n)
-}
-console.log(divideByString(str1, n1))
+//let n1 = 5
+//let str1 = 'Finish what you start'
+//function divideByString(str, n){
+  //return (str/n)
+//}
+//console.log(divideByString(str1, n1))
 
+// Multiply
+//let n = 4
+//let doubledNumber = n * 2
+//function double(){
+  //return(n * 2)
+//}
+//console.log(doubledNumber)
 
+//Squared
+//let n = 8
+//let numberSquared = n * n
+//function square(n, numberSquared) {
+//}
+//console.log(numberSquared)
 
+// Two numbers multiplied
+//let a = 4
+//let b = 8
+//let c = a * b
+//function multiplyByTwo(a, b) {
+  //return(a*b)
+//}
+//console.log(c)
+
+//Three number multiplied 
+//let a = 2
+//let b = 4
+//let c = 6
+//let result = a*b*c
+//function multiplyThree(a, b, c) {
+  //return(a*b*c)
+//}
+//console.log(result)
+
+//Multiplying by a string
+//let str = 'Finish what you start'
+//let num = 2
+//let result = str*num
+//function multiplyString(str, num){
+  //return(str*num)
+//}
+//console.log(result)
+
+//Sum
+//let a = 4
+//let b = 2
+//let c = a+b
+//function sum(a, b){
+  //return (a+b)  
+//}
+//console.log(c)
+
+//sumThree
+//let a =10
+//let b = 45
+//let c = 100
+//let sum = a+b+c
+//function sumThree(a, b, c) {
+  //return a+b+c 
+//}
+//console.log(sum)  
+
+//Subtract
+//let a = 100
+//let b = 50
+//let diff = a-b
+//function subtract(a, b){
+  //return a-b 
+//}
+//console.log(diff)
 
 
 
