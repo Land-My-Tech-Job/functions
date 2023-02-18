@@ -20,7 +20,7 @@
 
 
 //Defaults(a)
-//function cube(n = 5) {
+//function cube(n) {
 //return n * n * n
 //}
 //console.log(cube(10))
@@ -142,7 +142,27 @@
 //}
 //console.log(diff)
 
+//Random
+//let rand = getRandom()
+//function getRandom(){
+  //return Math.random()
+//}
+//console.log(rand)
+
+//diceRoll
+
+function diceRoll(){
+  return Math.round(Math.random() * 5) + 1
+}
+console.log(diceRoll())
+
+//Rounded Number
+
+//function getRandom(n) {
+  //return Math.round(Math.random() * n )
+//}
+//console.log(getRandom(4))
 
 
-
+//Pick a random number between 1-6 and round that number
 
