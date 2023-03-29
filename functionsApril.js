@@ -151,10 +151,10 @@
 
 //diceRoll
 
-function diceRoll(){
-  return Math.round(Math.random() * 5) + 1
-}
-console.log(diceRoll())
+//function diceRoll(){
+  //return Math.round(Math.random() * 5) + 1
+//}
+//console.log(diceRoll())
 
 //Rounded Number
 
@@ -164,5 +164,7 @@ console.log(diceRoll())
 //console.log(getRandom(4))
 
 
-//Pick a random number between 1-6 and round that number
-
+function getRandomNumber(n) {
+  return (Math.random() * n )
+}
+console.log(getRandomNumber(4))
